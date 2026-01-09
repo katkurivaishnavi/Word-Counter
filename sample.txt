@@ -1,0 +1,2 @@
+This is a simple word counter program.
+It is written in Python.
